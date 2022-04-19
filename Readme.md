@@ -6,11 +6,12 @@ Program for automatic processing of deviation tables for the purpose of automati
 
 ### Compile
 
-'''sh
+```sh
 make
 cd dist
 ./tester
-'''
+
+```
 
 ### Recommendation
 
